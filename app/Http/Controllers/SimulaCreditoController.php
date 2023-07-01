@@ -29,7 +29,7 @@ class SimulaCreditoController extends Controller
         curl_setopt($curl, CURLOPT_POSTFIELDS, $content);
 
         $json_response = curl_exec($curl);
-        dump($json_response);
+        //dump($json_response);
         $status = curl_getinfo($curl, CURLINFO_HTTP_CODE);
         if ( $status != 200 ) {
             die("Erro: Falha ao acessar a URL: $url Status: $status, resposta $json_response, curl_error " . curl_error($curl) . ", curl_errno " . curl_errno($curl));
