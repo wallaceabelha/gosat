@@ -1,3 +1,5 @@
 teste de inicialização de versionamento através do git para inclusão no GitHub.
 
 Após criado estou testando minha primeira versão de código.
+
+Comando adicionado após a criação da branch desenvolvimento
