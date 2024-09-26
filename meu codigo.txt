@@ -1,1 +1,1 @@
-teste de inicialização de versionamento através do git
+teste de inicialização de versionamento através do git para inclusão no github
