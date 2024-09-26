@@ -1,1 +1,3 @@
-teste de inicialização de versionamento através do git para inclusão no github
+teste de inicialização de versionamento através do git para inclusão no GitHub.
+
+Após criado estou testando minha primeira versão de código.
